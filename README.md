@@ -14,9 +14,9 @@
 
 | Sr.No | File Name                                                    | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Exploratory data analysis                                    | [**Notebook**](http://nbviewer.ipython.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Skin_Cancer_EDA.ipynb) |
-| 2     | Baseline model                                               | [**Notebook**](http://nbviewer.ipython.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Baseline_CNN.ipynb) |
-| 3     | Fine-tuning the last convolutional block of VGG16            | [**Notebook**](http://nbviewer.ipython.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Fine_Tuning_VGG16.ipynb) |
+| 1     | Exploratory data analysis                                    | [**Notebook**](http://nbviewer.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Skin_Cancer_EDA.ipynb) |
+| 2     | Baseline model                                               | [**Notebook**](http://nbviewer.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Baseline_CNN.ipynb) |
+| 3     | Fine-tuning the last convolutional block of VGG16            | [**Notebook**](http://nbviewer.org/urls/raw.github.com/ashishpatel26/Skin-Lesions-Detection-Deep-learning/main/Notebooks/Fine_Tuning_VGG16.ipynb) |
 | 4     | Fine-tuning the top 2 inception blocks of InceptionV3        | [**Notebook**](https://nbviewer.jupyter.org/github/ashishpatel26/Skin-Lesions-Detection-Deep-learning/blob/main/Notebooks/Fine_Tuning_InceptionV3.ipynb) |
 | 5     | Fine-tuning the Inception-ResNet-C of Inception-ResNet V2    | [**Notebook**](https://nbviewer.jupyter.org/github/ashishpatel26/Skin-Lesions-Detection-Deep-learning/blob/main/Notebooks/Fine_Tuning_InceptionResNet.ipynb) |
 | 6     | Fine-tuning the last dense block of DenseNet 201             | **[Notebook](https://nbviewer.jupyter.org/github/ashishpatel26/Skin-Lesions-Detection-Deep-learning/blob/main/Notebooks/Fine_Tuning_DenseNet.ipynb)** |
